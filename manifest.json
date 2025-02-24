@@ -1,0 +1,13 @@
+[
+  {
+    "name": "xcxcovers",
+    "description": "Spicetify extension to change Charli xcx's BRAT styled covers.",
+    "preview": "screenshot.png",
+    "main": "xcxcovers.js",
+    "readme": "README.md",
+    "authors": [
+        { "name": "thirtysomethings", "url": "https://x.com/softly6000" }
+    ],
+    "tags": ["cover"]
+  }
+]
